@@ -1,0 +1,5 @@
+slstatus
+components/*.o
+*.o
+*.orig
+*.rej
